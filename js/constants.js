@@ -1,6 +1,3 @@
-import { VECTOR_CONSTANTS } from "./constantsMSAExtension";
-
-
 export const ISA = {
 
     //Aritmética e Lógica
